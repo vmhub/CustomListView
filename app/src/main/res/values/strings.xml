@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+        <string-array name="Country">
+            <item>DR Congo</item>
+            <item>Ethiopia</item>
+            <item>Iran</item>
+            <item>Iraq</item>
+            <item>Saudi Arabia</item>
+        </string-array>
+
+        <string-array name="Capital">
+            <item>Kinshasa</item>
+            <item>Addis Ababa</item>
+            <item>Tehran</item>
+            <item>Baghdad</item>
+            <item>Riyadh</item>
+        </string-array>
+
+        <string-array name="Picture">
+            <item>drcongo</item>
+            <item>ethiopia</item>
+            <item>iran</item>
+            <item>iraq</item>
+            <item>saudiarabia</item>
+        </string-array>
+    </resources>
+
