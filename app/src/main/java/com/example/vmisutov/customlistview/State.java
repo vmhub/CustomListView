@@ -16,25 +16,25 @@ public class State {
       this.flagResource=flag;
     }
 
-    public String getName() {
-        return name;
-    }
+//    public String getName() {
+//        return name;
+//    }
 
   /*  public void setName(String name) {
         this.name = name;
     }*/
 
-    public String getCapital() {
-        return capital;
-    }
+//    public String getCapital() {
+//        return capital;
+//    }
 
  /*   public void setCapital(String capital) {
         this.capital = capital;
     } */
 
-    public int getFlagResource() {
-        return flagResource;
-   }
+//    public int getFlagResource() {
+//        return flagResource;
+//   }
 
  /*  public void setFlagResource(int flagResource) {
         this.flagResource = flagResource;
